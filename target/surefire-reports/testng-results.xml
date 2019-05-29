@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7156" started-at="2019-05-29T04:21:24Z" finished-at="2019-05-29T04:21:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7156" started-at="2019-05-29T04:21:24Z" finished-at="2019-05-29T04:21:31Z">
+      <class name="SampleMavenPackage.SampleMavenProject.Annotations">
+        <test-method status="PASS" signature="beforeSuiteAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeSuiteAnn" is-config="true" duration-ms="16" started-at="2019-05-29T09:51:24Z" finished-at="2019-05-29T09:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteAnn -->
+        <test-method status="PASS" signature="beforeTestAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeTestAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:24Z" finished-at="2019-05-29T09:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestAnn -->
+        <test-method status="PASS" signature="beforeMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeMethodAnn" is-config="true" duration-ms="1" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodAnn -->
+        <test-method status="PASS" signature="beforeClassAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeClassAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassAnn -->
+        <test-method status="PASS" signature="afterMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterMethodAnn" is-config="true" duration-ms="1" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnn -->
+        <test-method status="PASS" signature="alaunchBrowser()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="alaunchBrowser" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alaunchBrowser -->
+        <test-method status="PASS" signature="blaunchApp()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="blaunchApp" duration-ms="1" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blaunchApp -->
+        <test-method status="PASS" signature="beforeMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeMethodAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodAnn -->
+        <test-method status="PASS" signature="afterMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterMethodAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnn -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="launchApp" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="beforeMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="beforeMethodAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodAnn -->
+        <test-method status="PASS" signature="afterMethodAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterMethodAnn" is-config="true" duration-ms="1" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodAnn -->
+        <test-method status="PASS" signature="afterTestAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterTestAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestAnn -->
+        <test-method status="PASS" signature="afterClassAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterClassAnn" is-config="true" duration-ms="0" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassAnn -->
+        <test-method status="PASS" signature="afterSuiteAnn()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Annotations@22f71333]" name="afterSuiteAnn" is-config="true" duration-ms="6" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteAnn -->
+      </class> <!-- SampleMavenPackage.SampleMavenProject.Annotations -->
+      <class name="SampleMavenPackage.SampleMavenProject.Assertions">
+        <test-method status="PASS" signature="softAssertion()[pri:0, instance:SampleMavenPackage.SampleMavenProject.Assertions@6aaa5eb0]" name="softAssertion" duration-ms="8" started-at="2019-05-29T09:51:31Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- softAssertion -->
+      </class> <!-- SampleMavenPackage.SampleMavenProject.Assertions -->
+      <class name="SampleMavenPackage.SampleMavenProject.LoginTestCase">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:SampleMavenPackage.SampleMavenProject.LoginTestCase@13969fbe]" name="BrowserLaunch" duration-ms="7122" started-at="2019-05-29T09:51:24Z" finished-at="2019-05-29T09:51:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+      </class> <!-- SampleMavenPackage.SampleMavenProject.LoginTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
